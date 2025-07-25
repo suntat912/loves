@@ -1,0 +1,33 @@
+project:
+  name: Loi Yeu Gui Den Em
+  version: 1.0.0
+  description: >
+    Trang web lãng mạn với các lời yêu thương bay lơ lửng trên nền trời đêm —
+    dành riêng cho người đặc biệt 💖
+
+author:
+  name: Nanh
+  email: nanh@example.com
+
+technologies:
+  frontend:
+    - HTML5
+    - CSS3
+    - JavaScript
+    - Canvas API
+  tools:
+    - Visual Studio Code
+    - GitHub Pages
+
+features:
+  - Hiệu ứng trái tim bay
+  - Câu nói "Anh yêu em", "Mãi yêu", "Em là người đặc biệt"
+  - Thiết kế nền đen nhẹ nhàng, lãng mạn
+  - Responsive trên mọi thiết bị
+
+deployment:
+  method: GitHub Pages
+  url: https://nanh.github.io/loi-yeu-gui-den-em/
+
+status: "completed"
+license: "MIT"
